@@ -46,7 +46,9 @@ Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhi
 
 ### Network address
 <hr />
+
 **FOOSHA**
+
 ```
 192.215.0.4/30 via 192.215.0.5
 192.215.20.0/22 via 192.215.0.5
@@ -62,17 +64,23 @@ Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhi
 192.215.1.0/24 via 192.215.0.13
 192.215.0.8/30 via 192.215.0.13
 ```
+
 **WATER7**
+
 ```
 0.0.0.0/0 via 192.215.0.6
 192.215.0.128/25 via 192.215.0.2
 192.215.8.0/21 via 192.215.0.2
 ```
+
 **PUCCI**
+
 ```
 0.0.0.0/0 via 192.215.0.1
 ```
+
 **GUANHAO**
+
 ```
 0.0.0.0/0 via 192.215.0.14
 192.215.0.32/28 via 192.215.2.1
@@ -80,18 +88,23 @@ Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhi
 192.215.0.20/30 via 192.215.0.9
 192.215.1.0/24 via 192.215.0.9
 192.215.28.0/22 via 192.215.0.9
-
 ```
+
 **SEASTONE**
+
 ```
 0.0.0.0/0 via 192.215.1.1
 ```
+
 **OIIMO**
+
 ```
 0.0.0.0/0 via 192.215.0.10
 192.215.28.0/22 via 192.215.1.2
 ```
+
 **ALABASTA**
+
 ```
 0.0.0.0/0 via 192.215.2.2
 ```
