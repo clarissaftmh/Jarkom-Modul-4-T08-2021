@@ -9,8 +9,6 @@ Disusun oleh :
 
 ---
 
-## VLSM(Cisco Packet Tracer)
-
 ### Soal 
 
 ![topologi](image/topologi.png)
@@ -19,7 +17,9 @@ Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhi
 
 **Keterangan** : Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau Sebaliknya.
 
-## Hasil perhitungan subnetting
+## VLSM(Cisco Packet Tracer)
+
+### Hasil perhitungan subnetting
 
 | Subnet | Jumlah IP | Submask |  Network ID  |     Netmask    | 
 |--------|-----------|---------| ------------ | -------------- |
